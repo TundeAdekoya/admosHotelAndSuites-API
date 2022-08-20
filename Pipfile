@@ -11,6 +11,7 @@ uritemplate = "*"
 drf-yasg = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
